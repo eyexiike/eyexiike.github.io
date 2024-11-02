@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eyexiike.github.io/BPj/sitemap_index.txt
+Sitemap: https://eyexiike.github.io/BXs/sitemap_index.txt
+Sitemap: https://eyexiike.github.io/ZhH/sitemap_index.txt
+Sitemap: https://eyexiike.github.io/yfu/sitemap_index.txt
